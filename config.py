@@ -32,7 +32,7 @@ UNSPLASH_QUERY = 'animal baby'
 # -----------------------------------------------
 ADMIN_BOT_USERNAME = "Princepia" #without @
 
-THUMB_URL = os.environ.get("THUMB_URL", "https://josephscollege.ac.in/wp-content/uploads/2022/04/1.jpg")
+THUMB_URL = os.environ.get("THUMB_URL", "https://imgcdn.stablediffusionweb.com/2024/4/17/53a08e9d-950a-4c1b-8808-767ea2cea7e6.jpg")
 
 
 
